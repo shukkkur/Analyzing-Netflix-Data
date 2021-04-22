@@ -125,3 +125,8 @@ plt.show()
 </p>
 
 <p>Well, as we suspected, non-typical genres such as children's movies and documentaries are all clustered around the bottom half of the plot. But we can't know for certain until we perform additional analyses.</p>
+
+```python
+# Are we certain that movies are getting shorter?
+are_movies_getting_shorter = "No we aren't"
+```
